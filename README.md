@@ -16,8 +16,8 @@ Vamos aos passos para criar esse laboratório.
 *Crie um Grupo de Recursos
 *Crie 3 Redes Virtuais, cada uma com uma Subnet
 *Crie 3 Grupos de Segurança de Rede, um para cada Rede Virtual.
-Associe as Subnets aos NSGs
-Crie 3 Máquinas Virtuais. Uma em cada Rede Virtual.
+*Associe as Subnets aos NSGs
+*Crie 3 Máquinas Virtuais. Uma em cada Rede Virtual.
 
 ```
 <br>

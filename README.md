@@ -58,3 +58,4 @@ No portal do Azure, acesse Redes Virtuais, e selecione a Rede Hub que você crio
 Acesse o o nemu Settings e depois acesse Peerings. 
 <br>
 Clique em add.
+![HubPart4](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/0448a1ca-f9db-4b94-9356-7d8bfb44fa22)

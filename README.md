@@ -59,3 +59,9 @@ Acesse o o nemu Settings e depois acesse Peerings.
 <br>
 Clique em add.
 ![HubPart4](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/0448a1ca-f9db-4b94-9356-7d8bfb44fa22)
+
+<br>
+Dê um nome ao Peering da Rede de Hub que vai fazer conexão com a primeira Rede Spoke. Em seguida, dê o nome ao Peering que vai fazer a conexão da Rede Spoke com a Rede Hub.
+<br>
+
+![HubPart5](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/4b742abb-9f57-4e7d-83ee-3ff5354f3db9)

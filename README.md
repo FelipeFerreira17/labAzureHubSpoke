@@ -22,5 +22,6 @@ Vamos aos passos para criar esse laboratório.
 ```
 <br>
 
-Com isso temos 3 VMs uma para cada Rede virtaul.
-Essas VMs não se comuicam entre si, pois estão em Redes Virtuais diferentes.
+Criadas as 3 VMs, você irá acessar cada uma delas.
+<br>
+![HubPart1](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/16ada9c3-116b-42eb-98e6-ce25ff141f85)

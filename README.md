@@ -21,7 +21,14 @@ Vamos aos passos para criar esse laboratório.
 
 ```
 <br>
+Eu criei duas VMs Windows Server e uma VM linux.
+Nos NSGs, crie regras para acesso as portas RDP e SSH para podemos acessar as VMS.
 
+<br>
 Criadas as 3 VMs, você irá acessar cada uma delas.
 <br>
+
 ![HubPart1](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/16ada9c3-116b-42eb-98e6-ce25ff141f85)
+<br>
+
+![HubPart2](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/37dae2ac-a93d-413a-998e-7a4c5171c910)

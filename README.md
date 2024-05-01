@@ -78,3 +78,10 @@ Faça esse mesmo passo para a outra Rede Spoke. Conectando a Rede Hub com essa o
 Veja que o status dos Peerings devem mostrar que estão conectados.
 
 ![HubPart7](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/2483a7ba-8bce-4a05-89aa-4b2c1fb69b71)
+
+<br>
+
+Agora faça novamente o teste de Peering e veja como a Vm da Rede de Hub se conecta com as duas Redes Spokes.
+Só não haverá conexão entre as duas VMs das Redes Spokes como mostrado no desenho inicial desse guia.
+
+

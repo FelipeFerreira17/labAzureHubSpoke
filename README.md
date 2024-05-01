@@ -46,3 +46,6 @@ ssh seu nome de usuário@ip da VM
 Faça o teste de ping para verificar a conexão entre as VMs.
 Note que elas não têm conexão entre si.
 ![HubPart3](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/a5c4b493-49f7-496b-87a9-67483e21287a)
+Aqui tentei me conectar na VM Linux, sem sucesso.
+<br>
+Faça o teste de ping também com a outra VM e verifique como as VMs não se comunicam uma com as outras.

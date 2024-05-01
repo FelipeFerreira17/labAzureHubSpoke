@@ -70,3 +70,7 @@ Dê um nome ao Peering da Rede de Hub que vai fazer conexão com a primeira Rede
 Selecione a Rede Spoke que vai fazer conexão com a Rede Hub e clique em ADD.
 
 ![HubPart6](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/acec68f5-2776-4f52-8fe6-d328b7e83ea1)
+
+<br>
+
+Faça esse mesmo passo para a outra Rede Spoke. Conectando a Rede Hub com essa outra Rede Spoke.

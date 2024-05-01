@@ -32,3 +32,11 @@ Criadas as 3 VMs, você irá acessar cada uma delas.
 <br>
 
 ![HubPart2](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/37dae2ac-a93d-413a-998e-7a4c5171c910)
+
+<br>
+
+Tendo acessados as três máquinas, nas Vms Windows acesse o PowerShell e na VM linux, o acesso se dará a via SSH. Para se conctar, abra o terminal do seu computador
+e digite:
+```Markdown
+ssh seu nome de usuário@ip da VM
+```

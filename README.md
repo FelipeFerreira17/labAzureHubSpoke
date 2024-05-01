@@ -49,3 +49,12 @@ Note que elas não têm conexão entre si.
 Aqui tentei me conectar na VM Linux, sem sucesso.
 <br>
 Faça o teste de ping também com a outra VM e verifique como as VMs não se comunicam uma com as outras.
+<br>
+
+Para fazemos com que as VMs se comuniquem, vamos criar um Peering entre a Rede Hub com as Redes Spokes. Porém, não vamos fazer Peering entre as Redes Spokes.
+<br>
+No portal do Azure, acesse Redes Virtuais, e selecione a Rede Hub que você criou.
+<br>
+Acesse o o nemu Settings e depois acesse Peerings. 
+<br>
+Clique em add.

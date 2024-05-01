@@ -74,3 +74,7 @@ Selecione a Rede Spoke que vai fazer conexão com a Rede Hub e clique em ADD.
 <br>
 
 Faça esse mesmo passo para a outra Rede Spoke. Conectando a Rede Hub com essa outra Rede Spoke.
+<br>
+Veja que o status dos Peerings devem mostrar que estão conectados.
+
+![HubPart7](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/2483a7ba-8bce-4a05-89aa-4b2c1fb69b71)

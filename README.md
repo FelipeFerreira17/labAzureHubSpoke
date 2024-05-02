@@ -88,3 +88,12 @@ Só não haverá conexão entre as duas VMs das Redes Spokes como mostrado no de
 ![HubPart8](https://github.com/FelipeFerreira17/labAzureHubSpoke/assets/142698934/a36cee5a-3d5c-420e-9ba2-dcdc3598178f)
 
 Veja como temos a comunicação entre as duas VMs.
+<br>
+
+Neste laboratório conseguimos usar vários serviços do Azure como:
+
+```Markdown
+*Redes Virtuais
+*Máquinas Virtuais;
+*Grupos de Segurança(NSG);
+```
